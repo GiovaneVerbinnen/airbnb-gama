@@ -5,4 +5,4 @@ Projeto desenvolvido para a Gama Academy
 https://giovaneverbinnen.github.io/airbnb-gama/
 
 ### Pré-visualização
-![](image.PNG)
+![](home.PNG)
